@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(165, 209, 230);
+    font-family: Helvetica;
+}
+h1{
+    text-align: center;
+    color: #737368
+}
+
+h2{
+    color:  #737368
+}
+
+table, th, td{
+    border: 2px solid rgb(178, 39, 206)
+}
+
+a {
+    border: 1px solid rgb(240, 182, 182);
+    color:  #737368;
+    background-color: rgb(190, 209, 230);
+}
+
+img {
+    width: 200px;
+}
+form{
+    background-color: #02FBCF;
+}
+
+.smicon{
+    width: 40px;
+}
+
+.backgroundColor{
+    background-color: red;
+}
